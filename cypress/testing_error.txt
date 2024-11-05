@@ -1,0 +1,4 @@
+!!IMPORTANT!!
+
+If you are testing e2e and want to switch to testing drive components, you may get an error. In the opposite way too. To resolve this you need to 
+restart the test command
